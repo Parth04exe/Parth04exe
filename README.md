@@ -65,7 +65,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 
 ### 📊 Stats
 
-![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth04exe&show_icons=true&theme=blue-green)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub Streak](https://streak-stats.demolab.com?user=parth04exe&theme=blue-green&border_radius=4.5)
+![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth04exe&show_icons=true&theme=blue-green)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub Streak](https://streak-stats.demolab.com?user=parth04exe&theme=blue-green&border_radius=4.5)
 
 #
 <!--
