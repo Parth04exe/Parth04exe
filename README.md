@@ -1,11 +1,11 @@
 ![logo](https://github.com/Parth04exe/Parth04exe/blob/main/BLack%20Minimalist%20Corporate%20Staff%20Identity%20LinkedIn%20Banner.png)
-# 🧑🏻‍💻 Parth04exe
+#  Parth04exe
 <h>**`A passionate coder from India`**</h>
 
 I'm a passionate *full-stack developer* with a strong background in both front-end and back-end technologies. I love building end-to-end solutions that are efficient, scalable, and visually appealing. My goal is to create applications that provide seamless user experiences and solve real-world problems. I’m always on the lookout for new tools and frameworks to expand my tech stack.
 
 #
-### 🧰 Languages and Tools<br><br>
+###  Languages and Tools<br><br>
 
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -48,7 +48,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 
 #
 
-<h3 align="left">🤜🏻🤛🏻 Connect with me</h3>
+<h3 align="left"> Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/tw_partha17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tw_partha17" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/partha-sarathy-mohanty04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="partha sarathy mohanty" height="30" width="40" /></a>
@@ -58,14 +58,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 
 #
 
-### Languages used
+###  Languages used
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parth04exe&show_icons=blue-green&locale=en&layout=compact&theme=blue-green" alt="parth04exe" /></p><br><br><br><br><br><br>
 
 
 #
 
-### 📊 Stats
+###  Stats
 
 ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth04exe&show_icons=true&theme=blue-green) ![GitHub Streak](https://streak-stats.demolab.com?user=parth04exe&theme=blue-green&border_radius=4.5)
 
