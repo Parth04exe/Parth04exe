@@ -58,7 +58,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 
 #
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parth04exe&show_icons=blue-green&locale=en&layout=compact&theme=blue-green" alt="parth04exe" /></p><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parth04exe&show_icons=blue-green&locale=en&layout=compact&theme=blue-green" alt="parth04exe" /></p><br><br><br><br><br><br><br>
 
 
 #
